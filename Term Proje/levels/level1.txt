@@ -1,0 +1,10 @@
+City,Istanbul,14,2
+City,Van,89,1
+City,Mersin,62,3
+Fixed,63
+Fixed,72
+Fixed,61
+Passenger,9,1,2
+Passenger,10,3,1
+Passenger,13,1,3
+Vehicle,1,10

@@ -1,0 +1,16 @@
+City,Ankara,43,2
+City,Mersin,6,3
+City,Antalya,11,4
+City,Izmir,87,5
+Passenger,11,3,2
+Passenger,17,3,4
+Passenger,21,4,5
+Passenger,12,2,5
+Passenger,15,2,5
+Passenger,8,2,5
+Passenger,11,5,4
+Passenger,7,5,2
+Vehicle,2,15
+Fixed,33
+Fixed,85
+Fixed,26

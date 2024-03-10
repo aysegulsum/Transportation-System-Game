@@ -1,0 +1,15 @@
+City,Istanbul,29,1
+City,Konya,52,2
+City,Bursa,4,3
+City,Mus,11,4
+City,Izmir,87,5
+Passenger,11,1,2
+Passenger,12,3,4
+Passenger,10,1,5
+Passenger,6,5,1
+Passenger,5,1,4
+Passenger,12,4,2
+Passenger,12,4,5
+Passenger,8,4,3
+Vehicle,4,15
+Fixed,19
